@@ -1,0 +1,45 @@
+linear
+
+7k train set
+training time: 164.833 s
+training time: 17.192 s
+Acurracy: 0.984072810011
+
+1% train set
+training time: 0.109 s
+prediction time: 1.009 s
+Acurracy: 0.884527872582
+
+
+rbf
+1% train set
+
+training time: 0.127 s
+prediction time: 1.162 s
+Acurracy: 0.616040955631
+
+C=10.
+training time: 0.123 s
+prediction time: 1.157 s
+Acurracy: 0.616040955631
+
+C=100.
+training time: 0.121 s
+prediction time: 1.147 s
+Acurracy: 0.616040955631
+
+C=1000.
+training time: 0.118 s
+prediction time: 1.082 s
+Acurracy: 0.821387940842
+
+C=10000.
+training time: 0.099 s
+prediction time: 0.891 s
+Acurracy: 0.892491467577
+
+7k train set
+C=10000.
+training time: 109.944 s
+prediction time: 11.003 s
+Acurracy: 0.990898748578

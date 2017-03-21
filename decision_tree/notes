@@ -1,0 +1,12 @@
+7k
+min_samples_split=40
+training time: 44.882 s
+Acurracy: 0.977246871445
+
+training time: 69.734 s
+prediction time: 0.013 s
+Acurracy: 0.978384527873
+
+1% feature percentile
+training time: 3.479 s
+Acurracy: 0.967007963595

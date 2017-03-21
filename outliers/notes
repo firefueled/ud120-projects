@@ -1,0 +1,2 @@
+a way to automatically eliminate outliers by calculating improvements in accuracy
+it would progressively eliminate fewer outliers while requiring better accuracy gains to proceed
